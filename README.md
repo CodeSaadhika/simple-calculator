@@ -4,9 +4,9 @@ A basic calculator built using React, supporting standard arithmetic operations 
 
 ## Features
 - Main features:
- - Responsive UI
- - Real-time calculations
- - Clear function to reset the display
+  - Responsive UI
+  - Real-time calculations
+  - Clear function to reset the display
   
 ## Technologies Used
 - HTML5/CSS/JS
